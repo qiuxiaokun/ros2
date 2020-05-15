@@ -8,7 +8,7 @@ The ROS graph is a network of ORS 2 elements processing data together at one tim
 
 
 ## 3. ros2 run
-The command ***ros2 run*** launches an executable from a package.
+The command ***ros2 run*** launches an executable from a package.  
 `ros2 run <package_name> <executable_name>`
 
 ## 4. ros2 ndoe list
@@ -18,8 +18,8 @@ The command ***ros2 run*** launches an executable from a package.
 Remapping允许你使用custom values重新指定default node properties, like node name, topic names, service names, etc.
 
 ## 6. ros2 node info
-Now that you know the names of your nodes, you can access more information about them with:
-`ros2 node info <node_name>` 
+Now that you know the names of your nodes, you can access more information about them with:  
+`ros2 node info <node_name>`  
 ***ros2 node info*** returns a list of subscribers, publishers, and actions (the ROS graph connections) that interact with that node, The output should like this:
 
 ```
