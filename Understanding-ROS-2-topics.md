@@ -4,3 +4,6 @@
         of topics and simultaneously have subscriptions to any number of topics. Topics are one of\
         the import ways that data moves between node, and therefore between different parts of the\
         system.
+## rqt_graph
+        visualize the changing nodes and topics, as well as the connections between them.  
+        ```rqt_graph```
