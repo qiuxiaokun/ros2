@@ -5,5 +5,5 @@
         the import ways that data moves between node, and therefore between different parts of the\
         system.
 ## rqt_graph
-        visualize the changing nodes and topics, as well as the connections between them.  
-        ```rqt_graph```
+    visualize the changing nodes and topics, as well as the connections between them.  
+    ```rqt_graph```
